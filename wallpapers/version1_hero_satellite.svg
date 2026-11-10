@@ -1,0 +1,1661 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <rect width="1920" height="1080" fill="#030712"/>
+  <text x="960.0" y="43.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="22" font-weight="900" text-anchor="middle">⌨️ X.Tips X7 — Version 1: Hero &amp; Satellite (핵심 레이어 특대 확대)</text>
+  <text x="960.0" y="63.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="11.5" font-weight="500" text-anchor="middle">중앙 L0·L1·L2를 초대형 배치하여 가독성을 극대화하고, 보조 L3~L8은 좌우 위성 배치</text>
+<rect x="165.0" y="77.0" width="430.0" height="300.0" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+<text x="179.0" y="99.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="12" font-weight="800">Layer 3: 마우스 · 미디어 · 창관리</text>
+<rect x="466.0" y="87.0" width="115" height="19" rx="9.5" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+<text x="523.5" y="100.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">오른손 바깥 엄지 / TO(3)</text>
+<g transform="translate(177.0,115.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F1</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(215.5,113.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F2</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(254.0,111.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F3</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(292.5,113.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F4</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(331.0,115.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F5</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(177.0,158.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">공간←</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃←</text>
+</g>
+<g transform="translate(215.5,155.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">앱윈도우</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃↓</text>
+</g>
+<g transform="translate(254.0,153.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">미션컨트롤</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃↑</text>
+</g>
+<g transform="translate(292.5,155.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">공간→</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃→</text>
+</g>
+<g transform="translate(331.0,157.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">캡처</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧4</text>
+</g>
+<g transform="translate(177.0,200.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F6</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(215.5,198.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F7</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(254.0,196.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F8</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(292.5,198.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F9</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(331.0,200.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F10</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">기능키</text>
+</g>
+<g transform="translate(394.0,115.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">⏪</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MRWD</text>
+</g>
+<g transform="translate(432.5,113.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">⏯</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MPLY</text>
+</g>
+<g transform="translate(471.0,111.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">⏩</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MFFD</text>
+</g>
+<g transform="translate(509.5,113.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Vol-</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">볼륨↓</text>
+</g>
+<g transform="translate(548.0,115.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Vol+</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">볼륨↑</text>
+</g>
+<g transform="translate(394.0,157.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">마우스←</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MS-Left</text>
+</g>
+<g transform="translate(432.5,155.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">마우스↓</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MS-Down</text>
+</g>
+<g transform="translate(471.0,153.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">마우스↑</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MS-Up</text>
+</g>
+<g transform="translate(509.5,155.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">마우스→</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">MS-Rght</text>
+</g>
+<g transform="translate(548.0,158.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">감속</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">ACCEL0</text>
+</g>
+<g transform="translate(394.0,200.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">휠←</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">WH-Left</text>
+</g>
+<g transform="translate(432.5,198.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">휠↓</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">WH-Down</text>
+</g>
+<g transform="translate(471.0,196.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">휠↑</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">WH-Up</text>
+</g>
+<g transform="translate(509.5,198.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">휠→</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">WH-Rght</text>
+</g>
+<g transform="translate(548.0,200.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">음소거</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Mute</text>
+</g>
+<g transform="translate(259.8,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(298.3,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(336.8,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(388.2,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">좌클릭</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">BTN1</text>
+</g>
+<g transform="translate(426.7,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">우클릭</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">BTN2</text>
+</g>
+<g transform="translate(465.2,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="17.5" y="17.5" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L3/복귀</text>
+  <text x="17.5" y="33.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">TO(0)</text>
+</g>
+<rect x="165.0" y="389.0" width="430.0" height="300.0" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+<text x="179.0" y="411.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="12" font-weight="800">Layer 4: 브라우저 &amp; 고속 텍스트 편집</text>
+<rect x="466.0" y="399.0" width="115" height="19" rx="9.5" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+<text x="523.5" y="412.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">왼손 하단 Z Hold</text>
+<g transform="translate(177.0,427.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">탭닫기</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘W</text>
+</g>
+<g transform="translate(215.5,425.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">탭복구</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧T</text>
+</g>
+<g transform="translate(254.0,423.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">새탭</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘T</text>
+</g>
+<g transform="translate(292.5,425.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">새로고침</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘R</text>
+</g>
+<g transform="translate(331.0,427.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">주소창</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘L</text>
+</g>
+<g transform="translate(177.0,470.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">—</text>
+  <text x="17.5" y="33.0" fill="#334155" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">비어있음</text>
+</g>
+<g transform="translate(215.5,467.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">뒤로</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘[</text>
+</g>
+<g transform="translate(254.0,465.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이전탭</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧[</text>
+</g>
+<g transform="translate(292.5,467.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">다음탭</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧]</text>
+</g>
+<g transform="translate(331.0,469.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">앞으로</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘]</text>
+</g>
+<g transform="translate(177.0,512.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="17.5" y="17.5" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L4</text>
+  <text x="17.5" y="33.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Z Hold</text>
+</g>
+<g transform="translate(215.5,510.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">잘라내기</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘X</text>
+</g>
+<g transform="translate(254.0,508.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">복사</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘C</text>
+</g>
+<g transform="translate(292.5,510.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">붙여넣기</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘V</text>
+</g>
+<g transform="translate(331.0,512.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">실행취소</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘Z</text>
+</g>
+<g transform="translate(394.0,427.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">페이지찾기</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘F</text>
+</g>
+<g transform="translate(432.5,425.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이전찾기</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧G</text>
+</g>
+<g transform="translate(471.0,423.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">화면축소</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘-</text>
+</g>
+<g transform="translate(509.5,425.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">화면확대</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘+</text>
+</g>
+<g transform="translate(548.0,427.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">원본배율</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘0</text>
+</g>
+<g transform="translate(394.0,469.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">줄처음</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘←</text>
+</g>
+<g transform="translate(432.5,467.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">단어←</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥←</text>
+</g>
+<g transform="translate(471.0,465.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">단어→</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥→</text>
+</g>
+<g transform="translate(509.5,467.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">줄끝</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘→</text>
+</g>
+<g transform="translate(548.0,470.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">단어삭제</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥⌫</text>
+</g>
+<g transform="translate(394.0,512.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">전체선택</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘A</text>
+</g>
+<g transform="translate(432.5,510.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">다시실행</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧Z</text>
+</g>
+<g transform="translate(471.0,508.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">저장</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘S</text>
+</g>
+<g transform="translate(509.5,510.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">개발도구</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⌥I</text>
+</g>
+<g transform="translate(548.0,512.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">전송실행</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘Enter</text>
+</g>
+<g transform="translate(259.8,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(298.3,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(336.8,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(388.2,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Space</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">공백</text>
+</g>
+<g transform="translate(426.7,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">엔터</text>
+</g>
+<g transform="translate(465.2,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(0)</text>
+  <text x="17.5" y="33.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">복귀</text>
+</g>
+<rect x="165.0" y="701.0" width="430.0" height="300.0" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+<text x="179.0" y="723.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="12" font-weight="800">Layer 5: IDE 코드 탐색 &amp; 디버깅</text>
+<rect x="466.0" y="711.0" width="115" height="19" rx="9.5" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+<text x="523.5" y="724.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">왼손 하단 X Hold</text>
+<g transform="translate(177.0,739.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">디버그중지</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧F5</text>
+</g>
+<g transform="translate(215.5,737.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">재시작</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧F5</text>
+</g>
+<g transform="translate(254.0,735.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">디버그창</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧D</text>
+</g>
+<g transform="translate(292.5,737.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">콘솔</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧Y</text>
+</g>
+<g transform="translate(331.0,739.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">터미널</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃`</text>
+</g>
+<g transform="translate(177.0,782.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">중단점</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F9</text>
+</g>
+<g transform="translate(215.5,779.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">실행▶</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F5</text>
+</g>
+<g transform="translate(254.0,777.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">StepOver</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F10</text>
+</g>
+<g transform="translate(292.5,779.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">StepInto</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F11</text>
+</g>
+<g transform="translate(331.0,781.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">StepOut</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧F11</text>
+</g>
+<g transform="translate(177.0,824.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">에러창</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧M</text>
+</g>
+<g transform="translate(215.5,822.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="17.5" y="17.5" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L5</text>
+  <text x="17.5" y="33.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">X Hold</text>
+</g>
+<g transform="translate(254.0,820.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">전체검색</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧F</text>
+</g>
+<g transform="translate(292.5,822.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">명령팔레트</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧P</text>
+</g>
+<g transform="translate(331.0,824.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">줄삭제</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧K</text>
+</g>
+<g transform="translate(394.0,739.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">정의미리</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥F12</text>
+</g>
+<g transform="translate(432.5,737.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">정의이동</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F12</text>
+</g>
+<g transform="translate(471.0,735.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">구현체이동</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘F12</text>
+</g>
+<g transform="translate(509.5,737.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">참조찾기</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧F12</text>
+</g>
+<g transform="translate(548.0,739.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이름변경</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F2</text>
+</g>
+<g transform="translate(394.0,781.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">뒤로◀</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃-</text>
+</g>
+<g transform="translate(432.5,779.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">앞으로▶</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⇧-</text>
+</g>
+<g transform="translate(471.0,777.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">심볼목록</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧O</text>
+</g>
+<g transform="translate(509.5,779.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">다음에러</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">F8</text>
+</g>
+<g transform="translate(548.0,782.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">짝괄호</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧\</text>
+</g>
+<g transform="translate(394.0,824.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">주석</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘/</text>
+</g>
+<g transform="translate(432.5,822.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">줄아래</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥↓</text>
+</g>
+<g transform="translate(471.0,820.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">줄위로</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥↑</text>
+</g>
+<g transform="translate(509.5,822.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">줄복제</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧⌥↓</text>
+</g>
+<g transform="translate(548.0,824.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">코드포맷</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧⌥F</text>
+</g>
+<g transform="translate(259.8,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(298.3,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(336.8,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(388.2,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">QuickFix</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘.</text>
+</g>
+<g transform="translate(426.7,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이전에러</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧F8</text>
+</g>
+<g transform="translate(465.2,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(0)</text>
+  <text x="17.5" y="33.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">복귀</text>
+</g>
+<rect x="610.0" y="77.0" width="700.0" height="300.0" rx="12" fill="#131d38" stroke="#38bdf8" stroke-width="2"/>
+<text x="624.0" y="99.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14" font-weight="800">Layer 0: Base (QWERTY &amp; 한/영)</text>
+<rect x="1156.0" y="87.0" width="140" height="19" rx="9.5" fill="#0369a1" stroke="#334155" stroke-width="1"/>
+<text x="1226.0" y="100.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">기본 상태 (Base)</text>
+<g transform="translate(632.0,126.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Q</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅂ</text>
+</g>
+<g transform="translate(695.0,122.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">W</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅈ</text>
+</g>
+<g transform="translate(758.0,119.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">E</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㄷ</text>
+</g>
+<g transform="translate(821.0,122.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">R</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㄱ</text>
+</g>
+<g transform="translate(884.0,125.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">T</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅅ</text>
+</g>
+<g transform="translate(632.0,193.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">A</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅁ</text>
+</g>
+<g transform="translate(695.0,189.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">S</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㄴ</text>
+</g>
+<g transform="translate(758.0,186.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">D</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅇ</text>
+</g>
+<g transform="translate(821.0,189.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">F</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㄹ</text>
+</g>
+<g transform="translate(884.0,192.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">G</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅎ</text>
+</g>
+<g transform="translate(632.0,260.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Z</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L4</text>
+</g>
+<g transform="translate(695.0,256.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">X</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L5</text>
+</g>
+<g transform="translate(758.0,253.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">C</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L6</text>
+</g>
+<g transform="translate(821.0,256.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">V</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L7</text>
+</g>
+<g transform="translate(884.0,259.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">B</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L8</text>
+</g>
+<g transform="translate(978.0,125.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Y</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅛ</text>
+</g>
+<g transform="translate(1041.0,122.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">U</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅕ</text>
+</g>
+<g transform="translate(1104.0,119.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">I</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅑ</text>
+</g>
+<g transform="translate(1167.0,122.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">O</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅐ</text>
+</g>
+<g transform="translate(1230.0,126.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">P</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅔ</text>
+</g>
+<g transform="translate(978.0,192.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">H</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅗ</text>
+</g>
+<g transform="translate(1041.0,189.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">J</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅓ</text>
+</g>
+<g transform="translate(1104.0,186.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">K</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅏ</text>
+</g>
+<g transform="translate(1167.0,189.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">L</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅣ</text>
+</g>
+<g transform="translate(1230.0,193.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Bksp</text>
+  <text x="29.0" y="56.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌫</text>
+</g>
+<g transform="translate(978.0,259.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">N</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅜ</text>
+</g>
+<g transform="translate(1041.0,256.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">M</text>
+  <text x="29.0" y="56.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">ㅡ</text>
+</g>
+<g transform="translate(1104.0,253.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Tab</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⇥</text>
+</g>
+<g transform="translate(1167.0,256.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Caps</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">한/영</text>
+</g>
+<g transform="translate(1230.0,260.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">SftEnt</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⇧/⏎</text>
+</g>
+<g transform="translate(767.5,330.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(830.5,330.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(893.5,330.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(968.5,330.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Space</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L1</text>
+</g>
+<g transform="translate(1031.5,330.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L2</text>
+</g>
+<g transform="translate(1094.5,330.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">MO(3)</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L3</text>
+</g>
+<rect x="610.0" y="389.0" width="700.0" height="300.0" rx="12" fill="#131d38" stroke="#38bdf8" stroke-width="2"/>
+<text x="624.0" y="411.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14" font-weight="800">Layer 1: 숫자 · 방향키 · 기본기호</text>
+<rect x="1156.0" y="399.0" width="140" height="19" rx="9.5" fill="#0369a1" stroke="#334155" stroke-width="1"/>
+<text x="1226.0" y="412.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">오른손 엄지 Spc Hold</text>
+<g transform="translate(632.0,438.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자1</text>
+</g>
+<g transform="translate(695.0,434.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자2</text>
+</g>
+<g transform="translate(758.0,431.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">3</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자3</text>
+</g>
+<g transform="translate(821.0,434.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">4</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자4</text>
+</g>
+<g transform="translate(884.0,437.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">5</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자5</text>
+</g>
+<g transform="translate(632.0,505.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Esc</text>
+  <text x="29.0" y="56.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">취소</text>
+</g>
+<g transform="translate(695.0,501.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Tab</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⇥</text>
+</g>
+<g transform="translate(758.0,498.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">`</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">백틱</text>
+</g>
+<g transform="translate(821.0,501.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">-</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">마이너스</text>
+</g>
+<g transform="translate(884.0,504.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">=</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">이퀄</text>
+</g>
+<g transform="translate(632.0,572.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Shift</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">선택</text>
+</g>
+<g transform="translate(695.0,568.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">←</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Left</text>
+</g>
+<g transform="translate(758.0,565.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">↓</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Down</text>
+</g>
+<g transform="translate(821.0,568.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">↑</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Up</text>
+</g>
+<g transform="translate(884.0,571.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">→</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Right</text>
+</g>
+<g transform="translate(978.0,437.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">6</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자6</text>
+</g>
+<g transform="translate(1041.0,434.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">7</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자7</text>
+</g>
+<g transform="translate(1104.0,431.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">8</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자8</text>
+</g>
+<g transform="translate(1167.0,434.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">9</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자9</text>
+</g>
+<g transform="translate(1230.0,438.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">0</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">숫자0</text>
+</g>
+<g transform="translate(978.0,504.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">;</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">세미콜론</text>
+</g>
+<g transform="translate(1041.0,501.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">[</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">대괄호열</text>
+</g>
+<g transform="translate(1104.0,498.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">]</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">대괄호닫</text>
+</g>
+<g transform="translate(1167.0,501.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">\</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">백슬래시</text>
+</g>
+<g transform="translate(1230.0,505.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Del</text>
+  <text x="29.0" y="56.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌦</text>
+</g>
+<g transform="translate(978.0,571.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">&#x27;</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">따옴표</text>
+</g>
+<g transform="translate(1041.0,568.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">,</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">쉼표</text>
+</g>
+<g transform="translate(1104.0,565.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">.</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">마침표</text>
+</g>
+<g transform="translate(1167.0,568.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">/</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">슬래시</text>
+</g>
+<g transform="translate(1230.0,572.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">SftEnt</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⇧/⏎</text>
+</g>
+<g transform="translate(767.5,642.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(830.5,642.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(893.5,642.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(968.5,642.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="29.0" y="29.0" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L1</text>
+  <text x="29.0" y="56.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Space</text>
+</g>
+<g transform="translate(1031.5,642.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">MO(3)</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L3</text>
+</g>
+<g transform="translate(1094.5,642.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(3)</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">고정</text>
+</g>
+<rect x="610.0" y="701.0" width="700.0" height="300.0" rx="12" fill="#131d38" stroke="#38bdf8" stroke-width="2"/>
+<text x="624.0" y="723.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14" font-weight="800">Layer 2: 코딩 · Shift 기호</text>
+<rect x="1156.0" y="711.0" width="140" height="19" rx="9.5" fill="#0369a1" stroke="#334155" stroke-width="1"/>
+<text x="1226.0" y="724.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">오른손 엄지 Ent Hold</text>
+<g transform="translate(632.0,750.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">!</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-1</text>
+</g>
+<g transform="translate(695.0,746.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">@</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-2</text>
+</g>
+<g transform="translate(758.0,743.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">#</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-3</text>
+</g>
+<g transform="translate(821.0,746.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">$</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-4</text>
+</g>
+<g transform="translate(884.0,749.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">%</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-5</text>
+</g>
+<g transform="translate(632.0,817.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Esc</text>
+  <text x="29.0" y="56.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">취소</text>
+</g>
+<g transform="translate(695.0,813.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Tab</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⇥</text>
+</g>
+<g transform="translate(758.0,810.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">~</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">물결</text>
+</g>
+<g transform="translate(821.0,813.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">_</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">언더바</text>
+</g>
+<g transform="translate(884.0,816.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">+</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">플러스</text>
+</g>
+<g transform="translate(632.0,884.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Shift</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">선택</text>
+</g>
+<g transform="translate(695.0,880.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Home</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌘←</text>
+</g>
+<g transform="translate(758.0,877.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">PgDn</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Page↓</text>
+</g>
+<g transform="translate(821.0,880.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">PgUp</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Page↑</text>
+</g>
+<g transform="translate(884.0,883.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">End</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌘→</text>
+</g>
+<g transform="translate(978.0,749.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">^</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-6</text>
+</g>
+<g transform="translate(1041.0,746.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">&amp;</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-7</text>
+</g>
+<g transform="translate(1104.0,743.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">*</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">S-8</text>
+</g>
+<g transform="translate(1167.0,746.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">(</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">소괄호열</text>
+</g>
+<g transform="translate(1230.0,750.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">)</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">소괄호닫</text>
+</g>
+<g transform="translate(978.0,816.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">:</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">콜론</text>
+</g>
+<g transform="translate(1041.0,813.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">{</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">중괄호열</text>
+</g>
+<g transform="translate(1104.0,810.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">}</text>
+  <text x="29.0" y="56.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">중괄호닫</text>
+</g>
+<g transform="translate(1167.0,813.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">|</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">파이프</text>
+</g>
+<g transform="translate(1230.0,817.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Bksp</text>
+  <text x="29.0" y="56.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌫</text>
+</g>
+<g transform="translate(978.0,883.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">&quot;</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">큰따옴</text>
+</g>
+<g transform="translate(1041.0,880.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">&lt;</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">꺾쇠열</text>
+</g>
+<g transform="translate(1104.0,877.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">&gt;</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">꺾쇠닫</text>
+</g>
+<g transform="translate(1167.0,880.6)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">?</text>
+  <text x="29.0" y="56.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">물음표</text>
+</g>
+<g transform="translate(1230.0,884.2)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">줄바꿈</text>
+</g>
+<g transform="translate(767.5,954.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(830.5,954.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(893.5,954.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="29.0" y="56.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(968.5,954.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">MO(3)</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">L3</text>
+</g>
+<g transform="translate(1031.5,954.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="29.0" y="29.0" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L2</text>
+  <text x="29.0" y="56.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">Enter</text>
+</g>
+<g transform="translate(1094.5,954.0)">
+  <rect width="58.0" height="62.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="29.0" y="29.0" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="14.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(3)</text>
+  <text x="29.0" y="56.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="10.5" font-weight="500" text-anchor="middle">고정</text>
+</g>
+<rect x="1325.0" y="77.0" width="430.0" height="300.0" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+<text x="1339.0" y="99.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="12" font-weight="800">Layer 6: Rectangle 창분할 &amp; 창제어</text>
+<rect x="1626.0" y="87.0" width="115" height="19" rx="9.5" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+<text x="1683.5" y="100.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">왼손 하단 C Hold</text>
+<g transform="translate(1337.0,115.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">창전환</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘`</text>
+</g>
+<g transform="translate(1375.5,113.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">창닫기</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘W</text>
+</g>
+<g transform="translate(1414.0,111.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">좌측 2/3</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥E</text>
+</g>
+<g transform="translate(1452.5,113.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">정중앙</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥C</text>
+</g>
+<g transform="translate(1491.0,115.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">우측 2/3</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥T</text>
+</g>
+<g transform="translate(1337.0,158.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">전체화면</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌘F</text>
+</g>
+<g transform="translate(1375.5,155.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">창최소화</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘M</text>
+</g>
+<g transform="translate(1414.0,153.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">좌측 1/3</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥D</text>
+</g>
+<g transform="translate(1452.5,155.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">중앙 1/3</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥F</text>
+</g>
+<g transform="translate(1491.0,157.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">우측 1/3</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥G</text>
+</g>
+<g transform="translate(1337.0,200.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">앱숨김</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘H</text>
+</g>
+<g transform="translate(1375.5,198.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">타앱숨김</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥⌘H</text>
+</g>
+<g transform="translate(1414.0,196.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="17.5" y="17.5" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L6</text>
+  <text x="17.5" y="33.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">C Hold</text>
+</g>
+<g transform="translate(1452.5,198.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">공간←</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃←</text>
+</g>
+<g transform="translate(1491.0,200.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">공간→</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃→</text>
+</g>
+<g transform="translate(1554.0,115.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">세로최대</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥⇧↑</text>
+</g>
+<g transform="translate(1592.5,113.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">좌상 1/4</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥U</text>
+</g>
+<g transform="translate(1631.0,111.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">우상 1/4</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥I</text>
+</g>
+<g transform="translate(1669.5,113.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">좌하 1/4</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥J</text>
+</g>
+<g transform="translate(1708.0,115.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">우하 1/4</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥K</text>
+</g>
+<g transform="translate(1554.0,157.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">좌측절반</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥←</text>
+</g>
+<g transform="translate(1592.5,155.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">하단절반</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥↓</text>
+</g>
+<g transform="translate(1631.0,153.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">상단절반</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥↑</text>
+</g>
+<g transform="translate(1669.5,155.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">우측절반</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥→</text>
+</g>
+<g transform="translate(1708.0,158.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">최대화</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥⏎</text>
+</g>
+<g transform="translate(1554.0,200.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이전모니터</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥⌘←</text>
+</g>
+<g transform="translate(1592.5,198.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">다음모니터</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥⌘→</text>
+</g>
+<g transform="translate(1631.0,196.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">축소 -</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥-</text>
+</g>
+<g transform="translate(1669.5,198.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">확대 +</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥=</text>
+</g>
+<g transform="translate(1708.0,200.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">최대화</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥⏎</text>
+</g>
+<g transform="translate(1419.8,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(1458.3,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(1496.8,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(1548.2,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">정중앙</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥C</text>
+</g>
+<g transform="translate(1586.7,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">복원</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌥⌫</text>
+</g>
+<g transform="translate(1625.2,245.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(0)</text>
+  <text x="17.5" y="33.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">복귀</text>
+</g>
+<rect x="1325.0" y="389.0" width="430.0" height="300.0" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+<text x="1339.0" y="411.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="12" font-weight="800">Layer 7: 오른손 3×3 넘패드 &amp; 시트</text>
+<rect x="1626.0" y="399.0" width="115" height="19" rx="9.5" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+<text x="1683.5" y="412.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">왼손 하단 V Hold</text>
+<g transform="translate(1337.0,427.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Esc</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">취소</text>
+</g>
+<g transform="translate(1375.5,425.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이전셀</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⇧Tab</text>
+</g>
+<g transform="translate(1414.0,423.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">위로</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">↑</text>
+</g>
+<g transform="translate(1452.5,425.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">다음셀</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Tab</text>
+</g>
+<g transform="translate(1491.0,427.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Bksp</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌫</text>
+</g>
+<g transform="translate(1337.0,470.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Shift</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">범위</text>
+</g>
+<g transform="translate(1375.5,467.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">왼쪽</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">←</text>
+</g>
+<g transform="translate(1414.0,465.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">아래</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">↓</text>
+</g>
+<g transform="translate(1452.5,467.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">오른쪽</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">→</text>
+</g>
+<g transform="translate(1491.0,469.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">입력</text>
+</g>
+<g transform="translate(1337.0,512.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">실행취소</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘Z</text>
+</g>
+<g transform="translate(1375.5,510.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">잘라내기</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘X</text>
+</g>
+<g transform="translate(1414.0,508.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">복사</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘C</text>
+</g>
+<g transform="translate(1452.5,510.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="17.5" y="17.5" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L7</text>
+  <text x="17.5" y="33.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">V Hold</text>
+</g>
+<g transform="translate(1491.0,512.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">붙여넣기</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘V</text>
+</g>
+<g transform="translate(1554.0,427.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">÷</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">/</text>
+</g>
+<g transform="translate(1592.5,425.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">7</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num7</text>
+</g>
+<g transform="translate(1631.0,423.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">8</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num8</text>
+</g>
+<g transform="translate(1669.5,425.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">9</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num9</text>
+</g>
+<g transform="translate(1708.0,427.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">-</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">빼기</text>
+</g>
+<g transform="translate(1554.0,469.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">×</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">*</text>
+</g>
+<g transform="translate(1592.5,467.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">4</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num4</text>
+</g>
+<g transform="translate(1631.0,465.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">5</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num5</text>
+</g>
+<g transform="translate(1669.5,467.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">6</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num6</text>
+</g>
+<g transform="translate(1708.0,470.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">+</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">더하기</text>
+</g>
+<g transform="translate(1554.0,512.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">=</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">수식</text>
+</g>
+<g transform="translate(1592.5,510.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">1</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num1</text>
+</g>
+<g transform="translate(1631.0,508.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">2</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num2</text>
+</g>
+<g transform="translate(1669.5,510.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">3</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num3</text>
+</g>
+<g transform="translate(1708.0,512.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">완료</text>
+</g>
+<g transform="translate(1419.8,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(1458.3,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(1496.8,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(1548.2,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">0</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Num0</text>
+</g>
+<g transform="translate(1586.7,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">.</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">소수점</text>
+</g>
+<g transform="translate(1625.2,557.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(0)</text>
+  <text x="17.5" y="33.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">복귀</text>
+</g>
+<rect x="1325.0" y="701.0" width="430.0" height="300.0" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+<text x="1339.0" y="723.0" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="12" font-weight="800">Layer 8: macOS 시스템 · 캡처 · 회의</text>
+<rect x="1626.0" y="711.0" width="115" height="19" rx="9.5" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+<text x="1683.5" y="724.0" fill="#38bdf8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">왼손 하단 B Hold</text>
+<g transform="translate(1337.0,739.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">화면잠금</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌘Q</text>
+</g>
+<g transform="translate(1375.5,737.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">전체캡처</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧3</text>
+</g>
+<g transform="translate(1414.0,735.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">영역캡처</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧4</text>
+</g>
+<g transform="translate(1452.5,737.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">캡처도구</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧5</text>
+</g>
+<g transform="translate(1491.0,739.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">이모지</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌘Space</text>
+</g>
+<g transform="translate(1337.0,782.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">창최소화</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘M</text>
+</g>
+<g transform="translate(1375.5,779.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">앱숨기기</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘H</text>
+</g>
+<g transform="translate(1414.0,777.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">미션컨트롤</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃↑</text>
+</g>
+<g transform="translate(1452.5,779.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">전체화면</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃⌘F</text>
+</g>
+<g transform="translate(1491.0,781.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Spotlight</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘Space</text>
+</g>
+<g transform="translate(1337.0,824.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">마이크</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧A</text>
+</g>
+<g transform="translate(1375.5,822.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">카메라</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⇧V</text>
+</g>
+<g transform="translate(1414.0,820.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">복사</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘C</text>
+</g>
+<g transform="translate(1452.5,822.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">붙여넣기</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘V</text>
+</g>
+<g transform="translate(1491.0,824.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="17.5" y="17.5" fill="#fef08a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">★ L8</text>
+  <text x="17.5" y="33.0" fill="#fde68a" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">B Hold</text>
+</g>
+<g transform="translate(1554.0,739.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">음소거</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Mute</text>
+</g>
+<g transform="translate(1592.5,737.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Vol-</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">볼륨↓</text>
+</g>
+<g transform="translate(1631.0,735.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfdf5" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Vol+</text>
+  <text x="17.5" y="33.0" fill="#6ee7b7" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">볼륨↑</text>
+</g>
+<g transform="translate(1669.5,737.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">밝기-</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">어둡게</text>
+</g>
+<g transform="translate(1708.0,739.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#083344" stroke="#06b6d4" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ecfeff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">밝기+</text>
+  <text x="17.5" y="33.0" fill="#67e8f9" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">밝게</text>
+</g>
+<g transform="translate(1554.0,781.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">←</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Left</text>
+</g>
+<g transform="translate(1592.5,779.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">↓</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Down</text>
+</g>
+<g transform="translate(1631.0,777.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">↑</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Up</text>
+</g>
+<g transform="translate(1669.5,779.9)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">→</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">Right</text>
+</g>
+<g transform="translate(1708.0,782.3)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Bksp</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌫</text>
+</g>
+<g transform="translate(1554.0,824.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Space</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">공백</text>
+</g>
+<g transform="translate(1592.5,822.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#4c0519" stroke="#f43f5e" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#ffe4e6" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">강제종료</text>
+  <text x="17.5" y="33.0" fill="#fda4af" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘⌥Esc</text>
+</g>
+<g transform="translate(1631.0,820.0)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">—</text>
+  <text x="17.5" y="33.0" fill="#334155" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">비어있음</text>
+</g>
+<g transform="translate(1669.5,822.4)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(0)</text>
+  <text x="17.5" y="33.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">복귀</text>
+</g>
+<g transform="translate(1708.0,824.8)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">엔터</text>
+</g>
+<g transform="translate(1419.8,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Ctrl</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌃</text>
+</g>
+<g transform="translate(1458.3,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Opt</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌥</text>
+</g>
+<g transform="translate(1496.8,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#172554" stroke="#3b82f6" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Cmd</text>
+  <text x="17.5" y="33.0" fill="#93c5fd" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">⌘</text>
+</g>
+<g transform="translate(1548.2,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Space</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">공백</text>
+</g>
+<g transform="translate(1586.7,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">Enter</text>
+  <text x="17.5" y="33.0" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">엔터</text>
+</g>
+<g transform="translate(1625.2,869.5)">
+  <rect width="35.0" height="39.0" rx="5.5" fill="#3b0764" stroke="#a855f7" stroke-width="1"/>
+  <text x="17.5" y="17.5" fill="#f3e8ff" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" dominant-baseline="middle">TO(0)</text>
+  <text x="17.5" y="33.0" fill="#d8b4fe" font-family="-apple-system,BlinkMacSystemFont,Pretendard,sans-serif" font-size="7.0" font-weight="500" text-anchor="middle">복귀</text>
+</g>
+</svg>
