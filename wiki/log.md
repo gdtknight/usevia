@@ -12,6 +12,17 @@ tags: [via, x7, log, changelog]
 
 ---
 
+## [2026-11-10] feat | GitHub 원격 저장소(gdtknight/usevia) 연동 및 Version 2 월페이퍼 상단 3분할 개편
+
+- **GitHub 원격 저장소 연동**:
+  - `git init`, `.gitignore` 설정 (macOS 메타데이터, Python pycache, Obsidian 워크스페이스 상태 배제).
+  - 원격 리모트(`git@github.com:gdtknight/usevia.git`) `main` 브랜치 최초 커밋 및 푸시 완료.
+- **Version 2 월페이퍼 상단 3분할 헤더 개편**:
+  - 문자/숫자/특수기호 레이어(L0, L1, L2)를 상단 한 줄 3칸(`[L0 BASE] │ [L1 SPC] │ [L2 ENT]`)으로 컴팩트하게 통합.
+  - 본문 6개 기능 레이어(L3~L8) 전용 행으로 대형화 (행간 30.5px, 폰트 13.5px) 및 가독성 대폭 개선.
+
+---
+
 ## [2026-11-06] refactor | Layer 8 왼손 B키 이동(L4~L8 왼손 일렬 정렬), 4종 배경화면 개편 및 디렉토리 구조 정리
 
 - **키맵 변경 (대안 A 채택)**:
